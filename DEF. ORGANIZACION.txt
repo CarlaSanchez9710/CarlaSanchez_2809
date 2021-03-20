@@ -1,0 +1,9 @@
+
+Organizacion es la administracion y gestion de los recursos fisicos, 
+logicos y humanos que son necesarios para realizar de manera
+correcta el almacenamiento y procesamiento de datos asi como las funciones
+operativas de un organismo.
+
+Un ejemplo es el centro de computo donde se reciben todas las facturas de 
+una sede de alguna empresa y de ahi se distribuyen al area donde se 
+realizo el trabajo.
